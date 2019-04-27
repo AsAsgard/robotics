@@ -1,0 +1,9 @@
+aiohttp==3.5.4
+Flask==1.0.2
+jupyter==1.0.0
+ipykernel==5.1.0
+requests==2.21.0
+Flask-Script==2.0.6
+Pillow==6.0.0
+OpenCV-python==4.0.0.21
+zmq==0.0.0
